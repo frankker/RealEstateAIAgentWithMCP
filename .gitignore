@@ -1,0 +1,6 @@
+.env
+.codesandbox
+.devcontainer
+__pycache__
+RealEstateAIAgent-keypair.pem
+venv/
